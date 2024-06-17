@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which is the longest river in India?",
+    "options": ["A) Yamuna", "B) Ganges", "C) Brahmaputra", "D) Godavari"],
+    "correct_answer": "B) Ganges"
+  },
+  {
+    "question": "What is the highest mountain peak in India?",
+    "options": [
+      "A) Kangchenjunga",
+      "B) Nanda Devi",
+      "C) Mount Everest",
+      "D) K2"
+    ],
+    "correct_answer": "A) Kangchenjunga"
+  },
+  {
+    "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "options": ["A) Rajasthan", "B) Punjab", "C) Haryana", "D) Gujarat"],
+    "correct_answer": "B) Punjab"
+  },
+  {
+    "question": "What is the name of India's first satellite?",
+    "options": ["A) Bhaskara I", "B) Aryabhata", "C) Rohini", "D) INSAT-1A"],
+    "correct_answer": "B) Aryabhata"
+  },
+  {
+    "question": "Which plateau is known as the 'Roof of the World'?",
+    "options": [
+      "A) Deccan Plateau",
+      "B) Tibetan Plateau",
+      "C) Chota Nagpur Plateau",
+      "D) Malwa Plateau"
+    ],
+    "correct_answer": "B) Tibetan Plateau"
+  },
+  {
+    "question": "Which is the largest desert in India?",
+    "options": [
+      "A) Thar Desert",
+      "B) Rann of Kutch",
+      "C) Deccan Desert",
+      "D) Ladakh Desert"
+    ],
+    "correct_answer": "A) Thar Desert"
+  },
+  {
+    "question": "What is the most widely spoken language in India?",
+    "options": ["A) Bengali", "B) Telugu", "C) Hindi", "D) Tamil"],
+    "correct_answer": "C) Hindi"
+  },
+  {
+    "question": "Which is the largest state in India by area?",
+    "options": [
+      "A) Maharashtra",
+      "B) Uttar Pradesh",
+      "C) Madhya Pradesh",
+      "D) Rajasthan"
+    ],
+    "correct_answer": "D) Rajasthan"
+  },
+  {
+    "question": "Which ocean is to the south of India?",
+    "options": [
+      "A) Atlantic Ocean",
+      "B) Indian Ocean",
+      "C) Pacific Ocean",
+      "D) Arctic Ocean"
+    ],
+    "correct_answer": "B) Indian Ocean"
+  },
+  {
+    "question": "Which Indian state has the longest coastline?",
+    "options": ["A) Kerala", "B) Tamil Nadu", "C) Gujarat", "D) Maharashtra"],
+    "correct_answer": "C) Gujarat"
+  }
+]
